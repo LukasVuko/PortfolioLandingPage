@@ -166,6 +166,10 @@ footer a {
   .portfolio-card {
     width: 33.3%;
   }
+  footer .container p:nth-child(2) {
+    width: 50%;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 650px) {
